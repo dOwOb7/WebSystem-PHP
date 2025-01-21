@@ -3,7 +3,7 @@
 @section('content')
 <h1 class="mb-4">シフト一覧</h1>
 <a href="{{ route('shifts.create') }}" class="btn btn-primary mb-3">新規シフトを追加</a>
-<h2>こんにちは！</h2>
+<h2>こんにちは！Hello</h2>
 <table class="table table-bordered">
     <thead>
         <tr>
